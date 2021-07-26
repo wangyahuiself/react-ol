@@ -1,0 +1,14 @@
+./node_modules/
+dist
+example
+src
+public
+.babelrc
+.npmrc
+app.js
+index.html
+package-lock.json
+webpack.config.js
+webpack.prd.js
+yarn.lock
+yarn-error.log

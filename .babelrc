@@ -1,0 +1,18 @@
+{
+  "presets": [
+    "env"
+  ],
+  "plugins": [
+    "transform-react-jsx",
+    "transform-remove-console",
+    "transform-runtime",
+    [
+      "import",
+      {
+        "libraryName": "antd",
+        "libraryDirectory": "es",
+        "style": "css"
+      }
+    ]
+  ]
+}
